@@ -4,16 +4,16 @@ Sitio web de promoción turística para la comuna ficticia "Destino Cordillera".
 
 ## Integrantes
 
-Jean Montenegro — index.html, navbar y footer
-Sergio Madariaga — panoramas.html y alojamiento.html
-José Arguello — contacto.html y README.md
+- Jean Montenegro — index.html, navbar y footer
+- Sergio Madariaga — panoramas.html y alojamiento.html
+- José Arguello — contacto.html y README.md
 
 ## Tecnologías utilizadas
 
-HTML5
-CSS3 
-Bootstrap 5
-Bootstrap Icons
+- HTML5
+- CSS3 
+- Bootstrap 5
+- Bootstrap Icons
 
 ## Cómo ejecutar el sitio
 
