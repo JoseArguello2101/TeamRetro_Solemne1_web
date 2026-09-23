@@ -1,1 +1,61 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contacto - Destino Cordillera</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="index.html">Inicio</a></li>
+                <li><a href="panoramas.html">Panoramas</a></li>
+                <li><a href="alojamiento.html">Alojamiento y gastronomía</a></li>
+                <li><a href="contacto.html">Reserva y contacto</a></li>                
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <h1>Contáctanos</h1>
+        <p>Completa el formulario para reservar tu actividad o resolver tus dudas.</p>
 
+        <form>
+
+            <label for="nombre">Nombre completo</label>
+            <input type="text" id="nombre" name="nombre"> 
+            <label for="correo">Correo electronico</label>
+            <input type="email" id="correo" name="correo">
+            <label for="telefono">Numero telefónico</label>
+            <input type="tel" id="telefono" name="telefono">
+            <label for="fecha">Fecha deseada</label>
+            <input type="date" id="fecha" name="fecha">
+            <label for="actividad">Actividad de interés</label>
+            <select id="actividad" name="actividad">
+                <option value="trekking">Trekking</option>
+                <option value="termas">Aguas termales</option>
+                <option value="laguna">Laguna cordillerana</option>
+                <option value="cabalgata">Montar a caballo</option>
+                <option value="escalada">Escalada</option>
+                <option value="astronomia">Tour astronómico</option>
+            </select>
+            <label for="mensaje">Mensaje</label>
+            <textarea id="mensaje" name="mensaje" rows="4"></textarea>
+            <button type="submit">Enviar solicitud</button>    
+
+        </form>
+        <section>
+            <h2>Nuestros datos</h2>
+            <p>Dirección: Camino Cordillera s/n, Destino Cordillera</p>
+            <p>Telefóno: +56912345678</p>
+            <p>Correo: contactos@destinocordillera.cl</p>
+        </section>
+
+    </main>
+    <footer>
+        <p>Destino Cordillera</p>
+        <p>&copy; 2026 Destino Cordillera. sitio con fines académicos.</p>
+    </footer>
+</body>
+</html>
