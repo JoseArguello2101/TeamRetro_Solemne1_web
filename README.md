@@ -21,6 +21,7 @@ Sitio web de promoción turística para la comuna ficticia "Destino Cordillera".
 2. Abre el archivo `index.html` directamente en tu navegador (doble clic), o usa la extensión "Live Server" de VS Code para verlo con recarga automática.
 
 ## Estructura del proyecto
+```
 TeamRetro_Solemne1_web/
 ├── index.html
 ├── panoramas.html
@@ -30,7 +31,7 @@ TeamRetro_Solemne1_web/
 │ └── styles.css
 ├── img/
 └── README.md
-
+```
 
 ## Distribución de responsabilidades
 
