@@ -29,6 +29,7 @@ TeamRetro_Solemne1_web/
 ├── contacto.html
 ├── css/
 │ └── styles.css
+   └─ main.css
 ├── img/
 └── README.md
 ```
