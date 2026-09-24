@@ -58,3 +58,5 @@ TeamRetro_Solemne1_web/
 -Cervecería: https://www.happycow.net/reviews/la-cerveceria-los-andes-405410
 
 -Cafetería del valle: https://www.peru-retail.com/juan-valdez-cafeteria-cordillera-de-los-andes/
+
+-logo de github: https://www.pngwing.com/es/free-png-yrwfa/download
